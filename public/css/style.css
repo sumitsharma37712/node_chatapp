@@ -1,0 +1,35 @@
+.chat_sidebar{
+    float: left;
+    height:800px;
+    width:30%;
+    
+}
+li{
+    list-style-type: none;
+}
+
+/* .chat_main{
+    float:right;
+    height:300px;
+    position: fixed;
+    top:80%;
+
+}
+.compose{
+    margin-top:40%;
+}
+#send-location{
+    position: fixed;
+    top: 87%;
+    left:86%
+} */
+
+button{
+    font-size:20px;
+    background-color: rgba(71, 7, 174, 0.774);
+    color:white;
+}
+input{
+    height:50px;
+    width:50%;
+}
